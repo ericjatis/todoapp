@@ -1,0 +1,6 @@
+<?page title="hello" contentType="text/html;charset=UTF-8"?>
+<zk>
+<window title="hello" border="normal">
+You are using ZK version <label value="${session.webApp.version}"/>
+</window>
+</zk>
