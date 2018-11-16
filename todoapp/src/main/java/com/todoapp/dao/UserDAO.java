@@ -2,7 +2,7 @@ package com.todoapp.dao;
 
 import java.util.List;
 import com.todoapp.model.User;
-//
+//EricHalim
 public interface UserDAO {
 	public void createUser(User user);
 	public User findUserByUsername(String username);
